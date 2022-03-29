@@ -1,4 +1,5 @@
-👋Hi there!👋 I'm developer
+Hi there! 👋<br>
+I'm WEB developer
 
 <div><h1>💪Skills</h1></div>
 <div><h3>Platforms & Languages</h3></div>
