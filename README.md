@@ -1,5 +1,5 @@
 Hi there! 👋<br/>
-I'm WEB developer
+I'm <strong>Front-end web developer</strong>
 
 <h3>💪Skills</h3><p/>
 Platforms & Languages<p/>
